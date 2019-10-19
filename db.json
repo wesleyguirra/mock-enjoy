@@ -1,0 +1,52 @@
+{
+    "orders": [
+        {
+            "id": 1, 
+            "name": "Netflix",
+            "description": "Filmes e séries incríveis.",
+            "image": ""
+        },
+        {
+            "id": 2, 
+            "name": "Spotify",
+            "description": "Música para todos.",
+            "image": ""
+        },
+        {
+            "id": 3, 
+            "name": "Uber",
+            "description": "Dirija e ganhe.",
+            "image": ""
+        },
+        {
+            "id": 4, 
+            "name": "99 Taxi",
+            "description": "Viagem de maneira rápida.",
+            "image": ""
+        },
+        {
+            "id": 5, 
+            "name": "Globoplay",
+            "description": "Tudo junto? Só no Globoplay!",
+            "image": ""
+        },
+        {
+            "id": 6, 
+            "name": "Apple Music",
+            "description": "Tudo isso vai soar como música.",
+            "image": ""
+        },
+        {
+            "id": 7, 
+            "name": "Prime Video",
+            "description": "Aproveite conteúdos exclusivos!",
+            "image": ""
+        },
+        {
+            "id": 7, 
+            "name": "HBOGO",
+            "description": "Tudo o que você quer.",
+            "image": ""
+        }
+    ]
+}
