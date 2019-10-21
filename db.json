@@ -56,5 +56,49 @@
             "image": "https://theme.zdassets.com/theme_assets/2149439/3ff5271148cda27a6b6876d999aeb057c728ca94.png",
             "bgColor": "101010"
         }
+    ],
+    "productsRefresh": [
+        {
+            "id": 3, 
+            "name": "Uber",
+            "description": "Dirija e ganhe.",
+            "image": "https://cdn.mos.cms.futurecdn.net/5ij5qdSHFzJ2piPRuoTL5F.jpg",
+            "bgColor": "000000"
+        },
+        {
+            "id": 4, 
+            "name": "99 Taxi",
+            "description": "Viagem de maneira rápida.",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/8/8b/Logo99app.png",
+            "bgColor": "ffdd00"
+        },
+        {
+            "id": 5, 
+            "name": "Globoplay",
+            "description": "Tudo junto? Só no Globoplay!",
+            "image": "https://assine.globo.com/panfleto/sandyjunior/logo-desktop.png",
+            "bgColor": "fb1f1f"
+        },
+        {
+            "id": 6, 
+            "name": "Apple Music",
+            "description": "Tudo isso vai soar como música.",
+            "image": "http://www.shamblemaths.com/img/Apple_Music_logo.svg.png",
+            "bgColor": "303338"
+        },
+        {
+            "id": 7, 
+            "name": "Prime Video",
+            "description": "Aproveite conteúdos exclusivos!",
+            "image": "https://logodownload.org/wp-content/uploads/2018/07/prime-video-1.png",
+            "bgColor": "1b242d"
+        },
+        {
+            "id": 7, 
+            "name": "HBOGO",
+            "description": "Tudo o que você quer.",
+            "image": "https://theme.zdassets.com/theme_assets/2149439/3ff5271148cda27a6b6876d999aeb057c728ca94.png",
+            "bgColor": "101010"
+        }
     ]
 }
