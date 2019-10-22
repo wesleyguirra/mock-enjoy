@@ -5,100 +5,456 @@
             "name": "Netflix",
             "description": "Filmes e séries incríveis.",
             "image": "https://avitaltours.com/los-angeles/wp-content/uploads/sites/2/2018/12/Netflix-Corporate-TEam-Building-logo-white.png",
-            "bgColor": "e50914"
+            "bgColor": "e50914",
+            "ProductOptionsList": [
+                {
+                    "Name": "Netflix 50R$",
+                    "ProductOptionCode": "20401",
+                    "Description": "Netflix 50R$",
+                    "Value": 50.00,
+                    "MinMaxRangeValue": null,
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                },
+                {
+                    "Name": "Netflix 70R$",
+                    "ProductOptionCode": "20402",
+                    "Description": "Netflix 70R$",
+                    "Value": 70.00,
+                    "MinMaxRangeValue": null,
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                },
+                {
+                    "Name": "Netflix 50R$ - 500R$",
+                    "ProductOptionCode": "20403",
+                    "Description": "Netflix 50R$ - 500R$",
+                    "Value": null,
+                    "MinMaxRangeValue": {
+                        "MinValue": 50.00,
+                        "MaxValue": 500.00
+                    },
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                }
+            ]
         },
         {
             "id": 2, 
             "name": "Spotify",
             "description": "Música para todos.",
             "image": "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_White.png",
-            "bgColor": "1ed760"
+            "bgColor": "1ed760",
+            "ProductOptionsList": [
+                {
+                    "Name": "Spotify 50R$",
+                    "ProductOptionCode": "20401",
+                    "Description": "Spotify 50R$",
+                    "Value": 50.00,
+                    "MinMaxRangeValue": null,
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                },
+                {
+                    "Name": "Spotify 70R$",
+                    "ProductOptionCode": "20402",
+                    "Description": "Spotify 70R$",
+                    "Value": 70.00,
+                    "MinMaxRangeValue": null,
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                },
+                {
+                    "Name": "Spotify 50R$ - 500R$",
+                    "ProductOptionCode": "20403",
+                    "Description": "Spotify 50R$ - 500R$",
+                    "Value": null,
+                    "MinMaxRangeValue": {
+                        "MinValue": 50.00,
+                        "MaxValue": 500.00
+                    },
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                }
+            ]
         },
         {
             "id": 3, 
             "name": "Uber",
             "description": "Dirija e ganhe.",
             "image": "https://cdn.mos.cms.futurecdn.net/5ij5qdSHFzJ2piPRuoTL5F.jpg",
-            "bgColor": "000000"
+            "bgColor": "000000",
+            "ProductOptionsList": [
+                {
+                    "Name": "Uber 25R$ - 500R$",
+                    "ProductOptionCode": "20501",
+                    "Description": "Uber 25R$ - 500R$",
+                    "Value": null,
+                    "MinMaxRangeValue": {
+                        "MinValue": 25.00,
+                        "MaxValue": 500.00
+                    },
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                }
+            ]
         },
         {
             "id": 4, 
             "name": "99 Taxi",
             "description": "Viagem de maneira rápida.",
             "image": "https://upload.wikimedia.org/wikipedia/pt/8/8b/Logo99app.png",
-            "bgColor": "ffdd00"
+            "bgColor": "ffdd00",
+            "ProductOptionsList": [
+                {
+                    "Name": "99 Taxi 25R$ - 500R$",
+                    "ProductOptionCode": "20501",
+                    "Description": "99 Taxi 25R$ - 500R$",
+                    "Value": null,
+                    "MinMaxRangeValue": {
+                        "MinValue": 25.00,
+                        "MaxValue": 500.00
+                    },
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                }
+            ]
         },
         {
             "id": 5, 
             "name": "Globoplay",
             "description": "Tudo junto? Só no Globoplay!",
             "image": "https://assine.globo.com/panfleto/sandyjunior/logo-desktop.png",
-            "bgColor": "fb1f1f"
+            "bgColor": "fb1f1f",
+            "ProductOptionsList": [
+                {
+                    "Name": "Globoplay 50R$",
+                    "ProductOptionCode": "20401",
+                    "Description": "Globoplay 50R$",
+                    "Value": 50.00,
+                    "MinMaxRangeValue": null,
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                },
+                {
+                    "Name": "Globoplay 70R$",
+                    "ProductOptionCode": "20402",
+                    "Description": "Globoplay 70R$",
+                    "Value": 70.00,
+                    "MinMaxRangeValue": null,
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                },
+                {
+                    "Name": "Globoplay 50R$ - 500R$",
+                    "ProductOptionCode": "20403",
+                    "Description": "Globoplay 50R$ - 500R$",
+                    "Value": null,
+                    "MinMaxRangeValue": {
+                        "MinValue": 50.00,
+                        "MaxValue": 500.00
+                    },
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                }
+            ]
         },
         {
             "id": 6, 
             "name": "Apple Music",
             "description": "Tudo isso vai soar como música.",
             "image": "http://www.shamblemaths.com/img/Apple_Music_logo.svg.png",
-            "bgColor": "303338"
+            "bgColor": "303338",
+            "ProductOptionsList": [
+                {
+                    "Name": "Apple Music 50R$",
+                    "ProductOptionCode": "20401",
+                    "Description": "Apple Music 50R$",
+                    "Value": 50.00,
+                    "MinMaxRangeValue": null,
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                },
+                {
+                    "Name": "Apple Music 70R$",
+                    "ProductOptionCode": "20402",
+                    "Description": "Apple Music 70R$",
+                    "Value": 70.00,
+                    "MinMaxRangeValue": null,
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                },
+                {
+                    "Name": "Apple Music 50R$ - 500R$",
+                    "ProductOptionCode": "20403",
+                    "Description": "Apple Music 50R$ - 500R$",
+                    "Value": null,
+                    "MinMaxRangeValue": {
+                        "MinValue": 50.00,
+                        "MaxValue": 500.00
+                    },
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                }
+            ]
         },
         {
             "id": 7, 
             "name": "Prime Video",
             "description": "Aproveite conteúdos exclusivos!",
             "image": "https://logodownload.org/wp-content/uploads/2018/07/prime-video-1.png",
-            "bgColor": "1b242d"
+            "bgColor": "1b242d",
+            "ProductOptionsList": [
+                {
+                    "Name": "Prime Video 50R$",
+                    "ProductOptionCode": "20401",
+                    "Description": "Prime Video 50R$",
+                    "Value": 50.00,
+                    "MinMaxRangeValue": null,
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                },
+                {
+                    "Name": "Prime Video 70R$",
+                    "ProductOptionCode": "20402",
+                    "Description": "Prime Video 70R$",
+                    "Value": 70.00,
+                    "MinMaxRangeValue": null,
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                },
+                {
+                    "Name": "Prime Video 50R$ - 500R$",
+                    "ProductOptionCode": "20403",
+                    "Description": "Prime Video 50R$ - 500R$",
+                    "Value": null,
+                    "MinMaxRangeValue": {
+                        "MinValue": 50.00,
+                        "MaxValue": 500.00
+                    },
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                }
+            ]
         },
         {
             "id": 7, 
             "name": "HBOGO",
             "description": "Tudo o que você quer.",
             "image": "https://theme.zdassets.com/theme_assets/2149439/3ff5271148cda27a6b6876d999aeb057c728ca94.png",
-            "bgColor": "101010"
-        }
-    ],
-    "productsRefresh": [
-        {
-            "id": 3, 
-            "name": "Uber",
-            "description": "Dirija e ganhe.",
-            "image": "https://cdn.mos.cms.futurecdn.net/5ij5qdSHFzJ2piPRuoTL5F.jpg",
-            "bgColor": "000000"
-        },
-        {
-            "id": 4, 
-            "name": "99 Taxi",
-            "description": "Viagem de maneira rápida.",
-            "image": "https://upload.wikimedia.org/wikipedia/pt/8/8b/Logo99app.png",
-            "bgColor": "ffdd00"
-        },
-        {
-            "id": 5, 
-            "name": "Globoplay",
-            "description": "Tudo junto? Só no Globoplay!",
-            "image": "https://assine.globo.com/panfleto/sandyjunior/logo-desktop.png",
-            "bgColor": "fb1f1f"
-        },
-        {
-            "id": 6, 
-            "name": "Apple Music",
-            "description": "Tudo isso vai soar como música.",
-            "image": "http://www.shamblemaths.com/img/Apple_Music_logo.svg.png",
-            "bgColor": "303338"
-        },
-        {
-            "id": 7, 
-            "name": "Prime Video",
-            "description": "Aproveite conteúdos exclusivos!",
-            "image": "https://logodownload.org/wp-content/uploads/2018/07/prime-video-1.png",
-            "bgColor": "1b242d"
-        },
-        {
-            "id": 7, 
-            "name": "HBOGO",
-            "description": "Tudo o que você quer.",
-            "image": "https://theme.zdassets.com/theme_assets/2149439/3ff5271148cda27a6b6876d999aeb057c728ca94.png",
-            "bgColor": "101010"
+            "bgColor": "101010",
+            "ProductOptionsList": [
+                {
+                    "Name": "HBOGO 50R$",
+                    "ProductOptionCode": "20401",
+                    "Description": "HBOGO 50R$",
+                    "Value": 50.00,
+                    "MinMaxRangeValue": null,
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                },
+                {
+                    "Name": "HBOGO 70R$",
+                    "ProductOptionCode": "20402",
+                    "Description": "HBOGO 70R$",
+                    "Value": 70.00,
+                    "MinMaxRangeValue": null,
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                },
+                {
+                    "Name": "HBOGO 50R$ - 500R$",
+                    "ProductOptionCode": "20403",
+                    "Description": "HBOGO 50R$ - 500R$",
+                    "Value": null,
+                    "MinMaxRangeValue": {
+                        "MinValue": 50.00,
+                        "MaxValue": 500.00
+                    },
+                    "RechargeBonus": null,
+                    "RechargeBonusPercent": null,
+                    "RechargeCost": null,
+                    "ValityPeriod": null,
+                    "RechargeValueCategoryDescription": null,
+                    "ValityPeriodBonus": null,
+                    "Message": null,
+                    "RechargeValueKey": null,
+                    "RechargeBonusCategoryDescription": null,
+                    "BranchCode": null,
+                    "RechargeValueCode": null
+                }
+            ]
         }
     ]
 }
